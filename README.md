@@ -19,6 +19,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 </div><br/>
 
+  <div> 
+  <a href="https://www.linkedin.com/in/breno-dos-santos-borges-4471591b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div><br/>
+
 - 🔭 Desenvolvedor Web Full-Stack | Atualmente buscando a primeira vaga;
 - 🗺️ Linguagens: JavaScript, TypeScript, HTML5, CSS3
 - 🖥️ Tecnologias: Node,PostgreSQL, MongoDb, Fastify, Express, PrismaORM, Vitest, ReactJs, Docker
@@ -34,9 +38,5 @@
 
 
 
-##
 
-<div> 
-  <a href="https://www.linkedin.com/in/breno-dos-santos-borges-4471591b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
