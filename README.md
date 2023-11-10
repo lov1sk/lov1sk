@@ -31,7 +31,7 @@
 - 📫 Contate-me no e-mail: lucassantana00@gmail.com
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lov1sk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lov1sk&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lov1sk&layout=compact&langs_count=10&count_private=true&theme=tokyonight"/>
 </div>
 
