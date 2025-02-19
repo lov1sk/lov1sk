@@ -19,8 +19,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 </div><br/>
 
- <p>Sou Desenvolvedor Web Full-Stack a mais de 1 ano, e possuo experiência com as tecnologias: NodeJs, React, Java e Spring Framework. </p>
- <p>Atualmente estou em processo de transição de carreira, contando com diversos projetos pessoais, de desafios e de bootcamps, alguns destes podem ser vistos aqui na seção de repositorios "Pinados". </p>
+ <p>Sou Desenvolvedor Web Full-Stack a mais de 2 anos, e possuo experiência com as tecnologias: NodeJS,NestJS, ReactJS e NextJS </p>
  <p>Você encontra em mim como profissional, alguem dedicado e determinado, que busca incansavelmente meios para atingir seus objetivos com maestria, assim como um profissional comprometido com aquilo que lhe foi proposto! </p>
  
 - 🌐 Visite meu porfólio: https://porfoil.vercel.app/
