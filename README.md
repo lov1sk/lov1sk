@@ -19,17 +19,11 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 </div><br/>
 
- <p>Sou Desenvolvedor Web Full-Stack com anos de expêriencia em construção de sistemas para as mais variadas finalidades. Principais tecnologias que uso são: NodeJS,NestJS, ReactJS e NextJS </p>
+ <p>Engenheiro de software com expêriencia em desenvolvimento/planejamento de sistemas para as mais variadas finalidades.</p>
  <p>Você encontra em mim como profissional, alguem dedicado e determinado, que busca incansavelmente meios para atingir seus objetivos com maestria, assim como um profissional comprometido com aquilo que lhe foi proposto! </p>
 
 
 - 📫 Contate-me por e-mail: lucassantana00@gmail.com
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lov1sk&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lov1sk&layout=compact&langs_count=10&count_private=true&theme=tokyonight"/>
-</div>
 
 
 
