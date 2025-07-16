@@ -16,7 +16,7 @@
 
 
 - 📫 Contate-me por e-mail: lucassantana00@gmail.com
-- 🌐 Acesse meu Linkedin <a href="[https://www.linkedin.com/in/lucas-santana-a0a92712a/](https://www.linkedin.com/in/lucas-ribeiro-a0a92712a/)" target="_blank">clicando aqui</a> 
+- 🌐 Acesse meu Linkedin <a href="https://www.linkedin.com/in/lucas-ribeiro-a0a92712a/" target="_blank">clicando aqui</a> 
 
 
 
